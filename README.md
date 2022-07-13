@@ -1,5 +1,5 @@
 # Full Responsive Church Website
 
-* **Flexbox yapısı kullanılmıştır** 
+* **Flexbox yapısı kullanılmıştır.** 
 
-* **[Live Demo]()**
+* **[Live Demo](https://mehmetaydar01.github.io/Church-Website-Full-Responsive/)**
